@@ -1,4 +1,4 @@
-input[type=email], input[type=tel], input[type=text], input[type=url], select, textarea{
+input[type=email], input[type=password], input[type=tel], input[type=text], input[type=url], select, textarea{
     border:1px solid #ccc;
     border-radius:4px;
     box-sizing:border-box;
